@@ -1,3 +1,3 @@
 # Codility
 
-Some Codility solutions
+Codility solutions
